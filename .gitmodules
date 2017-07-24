@@ -1,0 +1,3 @@
+[submodule "alexa/lambda/haaska"]
+	path = alexa/lambda/haaska
+	url = https://github.com/auchter/haaska.git
